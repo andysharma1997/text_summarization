@@ -1,0 +1,5 @@
+Flask
+PyYAML~=5.2
+jsonpickle
+torch
+transformers
