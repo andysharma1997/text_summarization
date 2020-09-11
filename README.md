@@ -12,3 +12,7 @@ Install the requirements using
 pip install -r requirements.txt
 ```
 Run the main file for getting the summarization using API.
+``` 
+Note:- This api will automatically make use of gpu if CUDA is installed or the model will use cpu
+
+```
