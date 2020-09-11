@@ -5,3 +5,10 @@ This repo is used for abstractive text summarization. The model has to be downlo
 ```
 wget https://drive.google.com/file/d/1-Gck6Qu1v0DvDelkPMXVX5fv8glgPbAa/view?usp=sharing
 ```
+unzip the file and copy the path to the model in the constants.yaml file
+
+Install the requirements using
+```
+pip install -r requirements.txt
+```
+Run the main file for getting the summarization using API.
